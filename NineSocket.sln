@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NineSocket.Server", "NineSocket\NineSocket.Server.csproj", "{A06FD1B8-E185-4D07-A73A-60BFA8C433FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NineSocket.Test", "NineSocket.Test\NineSocket.Test.csproj", "{4D6289ED-456C-49B6-BF61-5D821B4BB37F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NineSocket.Client.Test", "NineSocket.Client.Test\NineSocket.Client.Test.csproj", "{4F6E0CEE-8044-47E0-8272-DD5312B63867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NineSocket.Client", "NineSocket.Client\NineSocket.Client.csproj", "{199C96D7-C191-401D-BC05-C51DD8E5DD49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NineSocket.Data", "NineSocket.Data\NineSocket.Data.csproj", "{F770C60D-09F6-454C-82A7-19935FA06F69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A06FD1B8-E185-4D07-A73A-60BFA8C433FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06FD1B8-E185-4D07-A73A-60BFA8C433FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06FD1B8-E185-4D07-A73A-60BFA8C433FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06FD1B8-E185-4D07-A73A-60BFA8C433FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6289ED-456C-49B6-BF61-5D821B4BB37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6289ED-456C-49B6-BF61-5D821B4BB37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6289ED-456C-49B6-BF61-5D821B4BB37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6289ED-456C-49B6-BF61-5D821B4BB37F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F6E0CEE-8044-47E0-8272-DD5312B63867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6E0CEE-8044-47E0-8272-DD5312B63867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6E0CEE-8044-47E0-8272-DD5312B63867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6E0CEE-8044-47E0-8272-DD5312B63867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{199C96D7-C191-401D-BC05-C51DD8E5DD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199C96D7-C191-401D-BC05-C51DD8E5DD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199C96D7-C191-401D-BC05-C51DD8E5DD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199C96D7-C191-401D-BC05-C51DD8E5DD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F770C60D-09F6-454C-82A7-19935FA06F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F770C60D-09F6-454C-82A7-19935FA06F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F770C60D-09F6-454C-82A7-19935FA06F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F770C60D-09F6-454C-82A7-19935FA06F69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

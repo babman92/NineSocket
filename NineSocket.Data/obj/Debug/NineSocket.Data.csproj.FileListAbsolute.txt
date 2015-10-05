@@ -1,0 +1,5 @@
+D:\ONEDRIVE\BACH KHOA\KI 11\DO AN\SOURCE\NineSocket\NineSocket.Data\bin\Debug\NineSocket.Data.dll
+D:\ONEDRIVE\BACH KHOA\KI 11\DO AN\SOURCE\NineSocket\NineSocket.Data\bin\Debug\NineSocket.Data.pdb
+D:\ONEDRIVE\BACH KHOA\KI 11\DO AN\SOURCE\NineSocket\NineSocket.Data\obj\Debug\NineSocket.Data.csprojResolveAssemblyReference.cache
+D:\ONEDRIVE\BACH KHOA\KI 11\DO AN\SOURCE\NineSocket\NineSocket.Data\obj\Debug\NineSocket.Data.dll
+D:\ONEDRIVE\BACH KHOA\KI 11\DO AN\SOURCE\NineSocket\NineSocket.Data\obj\Debug\NineSocket.Data.pdb
